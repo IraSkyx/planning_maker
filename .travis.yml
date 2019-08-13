@@ -1,8 +1,6 @@
-language: php
-php : 
-  - 7.3.8
+language: bash
 
-install:
+script:
   - printf $config > ./includes/config.conf.php
 
 branches:
