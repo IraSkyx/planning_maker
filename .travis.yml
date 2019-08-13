@@ -1,8 +1,0 @@
-language: bash
-
-script:
-  - printf $config > ./includes/config.conf.php
-
-branches:
-  only:
-  - master
