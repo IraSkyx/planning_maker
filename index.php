@@ -42,7 +42,7 @@
 						<div class='menu_closed'>
 							<strong><?php echo $moi->getNom(); ?></strong> - 
 							<a href="./?reset=1">(modifier)</a> - 
-							<a href='https://bde.isima.fr/espace_ZZ'>(Retour site BDE)</a>
+							<a href='https://bde.isima.fr/hub'>(Retour site BDE)</a>
 						</div>
 						<div class='menu_open' style="display:none;padding-top:8px;"><br />
 							<span><strong>Tâches courantes</strong></span>
